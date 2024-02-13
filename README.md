@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-		<label for="Name"> Enter Your Name
-    </label>
 
-<label for="name">Name:</label>
 
-<input type="text" id="name" name="name" required  size="10" />
+<!DOCTYPE html>
+<html>
+<body align = "center">
+
+ <form>
+	 Name: <input type="text" Name="Name">
+	
+ </form>
+</html>
 
 
   <body>
@@ -57,3 +62,7 @@
 	    </ol>
      
 <button class="favorite styled" type="button">Check Your Answer</button>
+
+<br>
+</html>
+<ol>
